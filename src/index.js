@@ -208,7 +208,7 @@ const ArticleList = (props) => (
 	</ListGroup>
 )
 ArticleList.proptypes = {
-	results: PropTypes.obj,
+	results: PropTypes.obj
 }
 
 /*
